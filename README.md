@@ -1,6 +1,8 @@
 # twt2bsky
 
-redirect you from twitter/x links to bsky.app
+redirects you from twitter/x links to bsky.app
+
+![screenshot](screenshot.jpg)
 
 uses manifest v3 so that there is no actual code or js, just redirect rules in json, i think this is
 as simple as i could make it, with as specific permissions as possible. there is purposely no 'override'
